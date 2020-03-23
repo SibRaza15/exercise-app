@@ -16,4 +16,4 @@ This is a full-stack app that utilizes the MEARN stack. This app allows the user
 
 ### Demo: 
 
-![](public\Exercise_App_Demo.gif)
+![](public/Exercise_App_Demo.gif)
