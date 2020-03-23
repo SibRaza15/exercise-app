@@ -13,3 +13,4 @@ This is a full-stack app that utilizes the MEARN stack. This app allows the user
 7. Node.js
 8.  MongoDB
 
+![demo](public\Exercise_App_Demo.gif)
