@@ -1,17 +1,17 @@
-<h2>Exercise App</h2>
+##Exercise App
 
-<p>This is a full-stack app that utilizes the MEARN stack. This app allows the user to create users and record what exercise they performed. This app uses MongoDB. So, CRUD functions are available.</p>
+This is a full-stack app that utilizes the MEARN stack. This app allows the user to create users and record what exercise they performed. This app uses MongoDB. So, CRUD functions are available.
 
-<h4>Used technologies</h4>
-<ul>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>Bootstrap</li>
-  <li>JavaScript</li>
-  <li>React</li>
-  <li>Express.js</li>
-  <li>Node.js</li>
-  <li>MongoDB</li>
-</ul>
+####Used technologies:
+
+  1.HTML
+  2.CSS
+  3.Bootstrap
+  4.JavaScript
+  5.React
+  6.Express.js
+  7.Node.js
+  8.MongoDB
+
 
 ![markdownlogo](https://imgur.com/X9ETGEc)
